@@ -1,0 +1,25 @@
+
+Please find the URLs: 
+======================================
+
+1) POST :http://localhost:8082/springboot/developers
+	 {
+    "name" : "developer44",
+    "skills" : "Java,Spring Boot,REST,AWS"
+    }
+    
+ ======================================================
+ 
+ 2) GET : http://localhost:8082/springboot/developers
+ 
+ ========================================================
+ 
+ 3) PUT : http://localhost:8082/springboot/developers/1
+ 
+ 	{
+    "name" : "developer44",
+    "skills" : "Java,Spring Boot,REST,AWS"
+    }
+  ============================================================
+  
+  4) DELETE : http://localhost:8082/springboot/developers/1
